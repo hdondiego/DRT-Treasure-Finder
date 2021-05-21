@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DRT Treasure Finder</string>
+    <string name="drt_treasure_finder">DRT Treasure Finder</string>
+    <string name="start">Start</string>
+    <string name="records">Records</string>
+    <string name="instructions">Instructions</string>
+    <string name="create">Create</string>
+    <string name="createprofile">Create Profile</string>
+    <string name="begin">Begin</string>
+    <string name="next">Next</string>
+    <string name="nextstage">Next Stage</string>
+    <string name="finish">Finish</string>
+    <string name="stagescomplete">Stages Complete!</string>
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="easy">Easy:</string>
+    <string name="medium">Medium:</string>
+    <string name="option">Option:</string>
+    <string name="file_exists">[File Exists]</string>
+    <string name="file_created">[File Created]</string>
+
+</resources>
